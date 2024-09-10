@@ -14,3 +14,4 @@ class Geometria:
             return 2 * (lados[0] + lados[1])
         else:
             raise ValueError("Número incorrecto de lados")
+

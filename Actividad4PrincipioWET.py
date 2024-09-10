@@ -7,3 +7,4 @@ class Geometria:
         return 4 * lado
     def perimetro_rectangulo(self, ancho, alto):
         return 2 * (ancho + alto)
+
